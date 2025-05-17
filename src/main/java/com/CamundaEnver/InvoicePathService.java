@@ -6,9 +6,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Service wrapper for programmatic use without CLI.
- */
-/**
  * The InvoicePathService class provides a service wrapper for finding paths
  * between two nodes in a system without using a command-line interface (CLI).
  */

@@ -11,9 +11,6 @@ import java.util.Optional;
 
 /**
  * Reusable library for finding BPMN node paths.
- */
-/**
- * Reusable library for finding BPMN node paths.
  * This class provides functionality to fetch BPMN models and find the shortest path
  * between two nodes identified by their IDs.
  */

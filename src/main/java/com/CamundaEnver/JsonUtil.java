@@ -3,9 +3,6 @@ package com.CamundaEnver;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * Shared JSON utility.
- */
-/**
  * Utility class for JSON operations.
  * This class provides shared functionality for handling JSON data using the Jackson library.
  * It contains a single instance of ObjectMapper for JSON serialization and deserialization.

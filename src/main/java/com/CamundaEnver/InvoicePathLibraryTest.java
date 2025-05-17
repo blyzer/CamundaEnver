@@ -6,9 +6,6 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.List;
 
 /**
- * Unit tests for InvoicePathLibrary and InvoicePathService.
- */
-/**
  * Unit tests for the InvoicePathLibrary and InvoicePathService classes.
  * This class contains tests to validate the functionality of finding paths
  * between nodes in an invoice processing workflow.

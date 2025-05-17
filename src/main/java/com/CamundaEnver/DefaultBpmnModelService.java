@@ -10,9 +10,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Parses BPMN XML into model and builds node map.
- */
-/**
  * Service class for handling BPMN (Business Process Model and Notation) models.
  * This class provides functionality to parse BPMN XML into a model instance
  * and to build a map of flow nodes from the parsed model.

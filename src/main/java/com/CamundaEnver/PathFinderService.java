@@ -5,9 +5,6 @@ import org.camunda.bpm.model.bpmn.instance.SequenceFlow;
 import java.util.*;
 
 /**
- * BFS shortest path finder.
- */
-/**
  * Service class for finding the shortest path using Breadth-First Search (BFS) algorithm.
  */
 public class PathFinderService {

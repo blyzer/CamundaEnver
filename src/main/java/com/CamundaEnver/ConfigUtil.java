@@ -2,9 +2,6 @@ package com.CamundaEnver;
 
 /**
  * Utility for reading configuration from environment variables or system properties.
- */
-/**
- * Utility for reading configuration from environment variables or system properties.
  * This class provides methods to retrieve integer values from the environment or system properties,
  * falling back to a default value if neither source provides a valid integer.
  */

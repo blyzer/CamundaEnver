@@ -16,9 +16,6 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 /**
  * Fetches BPMN XML from a remote HTTP endpoint.
- */
-/**
- * Fetches BPMN XML from a remote HTTP endpoint.
  * This class implements Runnable and Closeable interfaces to allow
  * for execution in a separate thread and proper resource management.
  */
